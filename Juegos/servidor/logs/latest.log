@@ -1,0 +1,47 @@
+[20:30:08] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[20:31:34] [Server thread/INFO]: Loading properties
+[20:31:34] [Server thread/INFO]: Default game type: SURVIVAL
+[20:31:34] [Server thread/INFO]: Generating keypair
+[20:31:35] [Server thread/INFO]: Starting Minecraft server on 25.74.7.95:25565
+[20:31:35] [Server thread/INFO]: Using default channel type
+[20:32:01] [Server thread/INFO]: Preparing level "world"
+[20:32:04] [Server thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[20:32:05] [Server thread/INFO]: Preparing start region for level 0
+[20:32:06] [Server thread/INFO]: Preparing spawn area: 0%
+[20:32:07] [Server thread/INFO]: Preparing spawn area: 30%
+[20:32:08] [Server thread/INFO]: Preparing spawn area: 60%
+[20:32:09] [Server thread/INFO]: Done (7.891s)! For help, type "help" or "?"
+[20:32:11] [Server thread/INFO]: FTBLib: Server reloaded in 21ms
+[20:32:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2712ms behind, skipping 54 tick(s)
+[20:34:41] [User Authenticator #1/INFO]: UUID of player Raultxo1101 is 654f5608-4d39-4d2e-9577-525d3e057206
+[20:34:42] [Server thread/INFO]: Raultxo1101[/25.74.7.95:64121] logged in with entity id 337 at (-550.2491446453084, 67.0, -328.31756432002055)
+[20:34:43] [Server thread/INFO]: Raultxo1101 joined the game
+[20:34:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2745ms behind, skipping 54 tick(s)
+[20:36:54] [User Authenticator #2/INFO]: UUID of player AndoruElric is 30e40548-77cb-42e9-8453-a946e3e50317
+[20:36:55] [Server thread/INFO]: AndoruElric[/25.74.56.183:64691] logged in with entity id 1127 at (-534.5829199571774, 66.0, -328.0475069053001)
+[20:36:55] [Server thread/INFO]: AndoruElric joined the game
+[20:45:43] [Server thread/WARN]: AndoruElric moved wrongly!
+[20:46:54] [Server thread/INFO]: Raultxo1101 has just earned the achievement [Lava Energy]
+[21:00:34] [Server thread/WARN]: Raultxo1101 moved wrongly!
+[21:18:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3265ms behind, skipping 65 tick(s)
+[21:18:43] [Server thread/WARN]: Raultxo1101 moved too quickly! -459.6667166230601,2.0,-286.7532631531385
+[21:21:46] [Server thread/WARN]: Raultxo1101 moved wrongly!
+[21:32:02] [Server thread/INFO]: Raultxo1101 has just earned the achievement [Tech-Tree Start]
+[21:32:39] [Server thread/WARN]: AndoruElric moved wrongly!
+[21:34:10] [Server thread/INFO]: Raultxo1101 has just earned the achievement [DIAMONDS!]
+[21:41:31] [Server thread/INFO]: AndoruElric has just earned the achievement [Electric Magic]
+[21:43:16] [Server thread/WARN]: AndoruElric moved wrongly!
+[21:46:47] [Server thread/INFO]: [Raultxo1101: Teleported Raultxo1101 to AndoruElric]
+[21:48:12] [Server thread/INFO]: Raultxo1101 has just earned the achievement [Electric Magic]
+[21:51:35] [Server thread/INFO]: [AndoruElric: Given [Mana Spreader] * 1 to AndoruElric]
+[21:53:50] [Server thread/WARN]: AndoruElric moved wrongly!
+[22:04:39] [Server thread/WARN]: Raultxo1101 moved wrongly!
+[22:15:29] [Server thread/WARN]: Raultxo1101 moved wrongly!
+[22:26:14] [Server thread/WARN]: AndoruElric moved wrongly!
+[22:32:01] [Server thread/INFO]: Server Backup started!
+[22:32:04] [Thread-45/INFO]: Server backup done in 00:00:03! (54.8MB | 130.0MB)
+[22:36:59] [Server thread/WARN]: AndoruElric moved wrongly!
+[22:39:20] [Server thread/INFO]: AndoruElric lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:39:20] [Server thread/INFO]: AndoruElric left the game
+[22:39:23] [Server thread/INFO]: Raultxo1101 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:39:23] [Server thread/INFO]: Raultxo1101 left the game
