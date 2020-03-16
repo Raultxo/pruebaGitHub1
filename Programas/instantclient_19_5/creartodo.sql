@@ -1,0 +1,13 @@
+@crearemple
+@crearemp_emp
+@crearproyecto
+@crearemp_tra_pro
+@crearemp_inv_pro
+@crearinstitucion
+@crearins_pro
+@creararticulo
+@crearmateria
+@crearmat_pro
+@crearmat_art
+@crearmateria_especial
+@crearmateria_no_especial

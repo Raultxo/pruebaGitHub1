@@ -1,0 +1,15 @@
+create table materia_no_especial (
+	nombre		varchar(30),
+	ambito		varchar(15),
+	categoria	varchar(25)	not null,
+	CONSTRAINT	cp_NO_ESPECIAL	PRIMARY KEY(nombre),
+	CONSTRAINT	ca_nombre__NO_ESPECIAL FOREIGN KEY (nombre) REFERENCES materia (nombre)
+)
+/
+
+insert into MATERIA_NO_ESPECIAL values ('AGRICULTURA BIOLOGICA', 'MUNDIAL', 'MUNDO NATURAL');
+insert into MATERIA_NO_ESPECIAL values ('PISCICULTURA BIOLOGICA', 'EUROPEO', 'MUNDO NATURAL');
+insert into MATERIA_NO_ESPECIAL values ('GANADERIA BIOLOGICA', 'MUNDIAL', 'MUNDO NATURAL');
+insert into MATERIA_NO_ESPECIAL values ('TECNOLOGIA Y DESARROLLO', 'MUNDIAL', 'NUEVAS TECNOLOGIAS');
+insert into MATERIA_NO_ESPECIAL values ('INFORMATICA Y DESARROLLO', 'EUROPEO', 'NUEVAS TECNOLOGIAS');
+insert into MATERIA_NO_ESPECIAL values ('REGADIO BIOLOGICO', 'REGIONAL', 'MUNDO NATURAL');

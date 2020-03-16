@@ -1,0 +1,40 @@
+create table emple (
+	dni			char(9),
+	nom			varchar(15)	not null,
+	ap1			varchar(20)	not null,
+	ap2			varchar(20),
+	categoria	varchar(15)		not null,
+	telefono	varchar(9)		not null,
+	despacho	char(5)			not null,
+	CONSTRAINT	cp_EMPLE	PRIMARY KEY(dni)
+)
+/
+insert into EMPLE values ('10101010A', 'MARTA', 'ARRUTI', 'LOPEZ', 'SUPERIOR', 601601601, 'P1D15');
+insert into EMPLE values ('20202020B', 'PEDRO', 'URRUTIA', 'PEREZ', 'SECRETARIO', 602602602, 'P3D09');
+insert into EMPLE values ('30303030C', 'JUNCAL', 'SAGASTI', 'GARCIA', 'ENCARGADO', 603603603, 'P4D18');
+insert into EMPLE values ('40404040D', 'ION', 'NAVARRO', 'VIDAL', 'OFICIAL 1', 604604604, 'P1D14');
+insert into EMPLE values ('50505050E', 'MAIDER', 'CORTANA', 'FERNANDEZ', 'OFICIAL 2', 605605605, 'P1D13');
+insert into EMPLE values ('60606060F', 'MANUEL', 'ARISTIZABAL', 'GOIENETXE', 'OFICIAL 2', 606606606, 'P1D12');
+insert into EMPLE values ('70707070G', 'ANE', 'VILLEGAS', 'TORRES', 'OFICIAL 2', 607607607, 'P1D11');
+insert into EMPLE values ('80808080H', 'JULEN', 'TORREJON', 'ANDRES', 'OFICIAL 2', 608608608, 'P1D10');
+insert into EMPLE values ('90909090I', 'MIREN', 'ETXEBERRIA', 'GOIKOETXEA', 'OFICIAL 2', 609609609, 'P1D09');
+insert into EMPLE values ('11111111J', 'MARIO', 'CARDABA', 'MADARIAGA', 'OFICIAL 2', 610610610, 'P1D08');
+insert into EMPLE values ('12121212K', 'MARIA', 'GOMEZ', 'GUTIERREZ', 'OFICIAL 2', 611611611, 'P1D07');
+insert into EMPLE values ('13131313L', 'MIKEL', 'BARRUTIA', 'VICENTE', 'OFICIAL 2', 612612612, 'P1D06');
+insert into EMPLE values ('14141414M', 'AITZOL', 'HERNANDEZ', 'MENENDEZ', 'OFICIAL 2', 613613613, 'P1D05');
+insert into EMPLE values ('15151515N', 'NOEMI', 'VASCO', 'MENDIARAZ', 'OFICIAL 2', 614614614, 'P1D04');
+insert into EMPLE values ('16161616O', 'BORJA', 'JACA', 'SEVILLA', 'OFICIAL 2', 615615615, 'P1D03');
+insert into EMPLE values ('17171717P', 'URSULA', 'MOLINA', 'GRANDES', 'OFICIAL 2', 616616616, 'P1D02');
+insert into EMPLE values ('18181818Q', 'JOSE', 'LEON', 'IRIGOIEN', 'OFICIAL 2', 617617617, 'P1D01');
+insert into EMPLE values ('19191919R', 'JUANA', 'SOLER', 'SANTOS', 'OFICIAL 1', 618618618, 'P3D08');
+insert into EMPLE values ('21212121S', 'FELIX', 'BARREDO', 'QUINTANA', 'OFICIAL 2', 619619619, 'P3D07');
+insert into EMPLE values ('22222222T', 'ISABEL', 'BILDARRATZ', 'SANCHEZ', 'OFICIAL 2', 620620620, 'P3D06');
+insert into EMPLE values ('23232323U', 'JORGE', 'GOLDARACENA', 'GONZALEZ', 'OFICIAL 2', 621621621, 'P3D05');
+insert into EMPLE values ('24242424V', 'ELENA', 'CLEMENTE', 'ANTUNEZ', 'OFICIAL 2', 622622622, 'P3D04');
+insert into EMPLE values ('25252525W', 'JAVIER', 'CILVETI', 'RIOS', 'OFICIAL 2', 623623623, 'P3D03');
+insert into EMPLE values ('26262626X', 'AZUCENA', 'ORTIZ', 'SANTIAGO', 'OFICIAL 2', 624624624, 'P3D02');
+insert into EMPLE values ('27272727Y', 'VENANCIO', 'TOLOSA', 'LAZKANO', 'OFICIAL 2', 625625625, 'P3D01');
+insert into EMPLE values ('28282828Z', 'LIDE', 'AMORRORTU', 'PERTEGAZ', 'OFICIAL 1', 626626626, 'P4D16');
+insert into EMPLE values ('29292929A', 'MARCELINO', 'NARBONA', 'SOLBES', 'OFICIAL 2', 627627627, 'P4D15');
+insert into EMPLE values ('31313131B', 'AMAIA', 'BUENO', 'VALLEJO', 'OFICIAL 2', 628628628, 'P4D14');
+insert into EMPLE values ('32323232C', 'KEPA', 'MURUA', 'MIGUEL', 'OFICIAL 2', 629629629, 'P4D13');
